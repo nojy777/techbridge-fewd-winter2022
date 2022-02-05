@@ -1,0 +1,164 @@
+Rare  Bookstore & Co
+
+Empathize
+
+What type of books do you stock?
+What is the title of the book?
+Do you sell new or used books?
+Do you accept trade ins?
+What year is the book?
+What is the price of book?
+Do you give discounts?
+What are log in details?
+Do  employees need identification number?
+What is name of author?
+Do you like inventory to be updated?
+Would you like the site to time out after some seconds or minutes?
+Would you like a search  feature?
+Do you want books to be categorized?
+Can orders be placed online or only in person?
+What are shipping options?
+Sales status?
+
+Different users
+
+Customers
+Bookshop supervisor
+Manager
+
+Names of users
+
+Customers  - many
+Bookshop supervisor  - James
+Manager  - Victor
+
+Tasks
+
+Manager -  gives approval for transactions
+
+Supervisor - takes care of inventory and accepts sales.
+
+Most frustrating aspects of the current system
+
+Hard to update sales status after sales
+How would this change improve their feelings about completing their tasks?
+
+This change will improve their feelings about completing their task as inventory is updated which makes their jobs easier.
+
+Set of skills
+
+Manager
+ - problem solving and decision making.
+-  Organization and delegation.
+- Mentoring
+- Planning and strategic thinking
+
+Supervisor
+
+IInterpersonal skills
+Conflict resolution
+Time management
+
+
+
+
+
+
+
+Define
+Create Username and password
+Use Name of bookstore
+Generate Book title with radio button
+Input Year of book
+Input Name of author
+Input Title of your book
+Input Category of books
+Define Time out features
+Add Price of book
+Update Sales status
+Inventory update
+Indicate if it is Online or in person sales
+
+
+
+
+Ideate
+
+Create Username and password
+Use Name of bookstore
+Generate Book title with radio button
+Input Year of book
+Define Name of author
+Input Title of your book
+Input Category of books
+Add Price of book
+Update Sales status
+Inventory update
+
+
+Prototype
+
+
+Username
+Password
+
+
+Rare Books
+
+
+Year
+Author
+Title
+Book category
+Price
+Sales status
+Notification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test
+
+A
+Empathise
+Define
+Ideate
+Prototype
+Test- Satisfactory
+
+
+B
+Empathise
+Define
+Ideate
+Prototype
+Test- Satisfactory
+
+
+C
+Empathise
+Define
+Ideate
+Prototype
+Test- Satisfactory
+
+
+
+
+
+
+
