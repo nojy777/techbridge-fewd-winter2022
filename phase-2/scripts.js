@@ -39,6 +39,19 @@ function findInGrid() {
 
 function findInList() {
    //find In List
+   const textToFind = document.getElementById("tbTextToFind").value;
+   console.log(textToFind);
+
+   let indexFound;
+   let spans = document.getElementsByTagName('span');
+   for (let index = 0; index < spans.length; index++) {
+        if(textToFind === spans[index].outerText){
+            indexFound = index;
+            break;
+        }
+    }
+   
+    spans[indexFound].classList.add("spanHighlighted");
 }
 
 function sortIt() {
