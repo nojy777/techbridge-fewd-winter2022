@@ -58,7 +58,8 @@ function findInList() {
    console.log(textToFind);
 
    let indexFound = -1;
-   let spans = document.getElementsByTagName('span');
+   let spans = document.getElementsByTagName('span'); 
+   
    for (let index = 0; index < spans.length; index++) {
         if(textToFind === spans[index].outerText){
             indexFound = index;
