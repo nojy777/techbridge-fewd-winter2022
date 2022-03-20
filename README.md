@@ -1,4 +1,11 @@
 # techbridge-fewd-winter2022
+Tech Stack
+
+HTML
+CSS
+JavaScript
+
+
 
 Rare  Bookstore & Co
 
