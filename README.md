@@ -2,7 +2,7 @@
 Tech Stack
 
 HTML
-CSS
+CSS/Bootstrap
 JavaScript
 
 
