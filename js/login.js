@@ -17,3 +17,56 @@ var submitLogin = (e) => {
     }
 
 };
+
+function searchBooks(){
+    // declare variables
+    var input, filter, title, book, txtValue
+    input = document.getElementById("search");
+    filter = input.value.toUpperCase();
+    title = document.getElementsByClassName("title");
+    book = document.getElementsByClassName("book");
+    console.log(book);
+    console.log(title);
+    console.log(filter);
+
+    // loop through book div, hide those who don't match
+    for (i = 0; i < book.length; i++){
+        if (book){
+            txtValue = book[i].textContent || book[i].innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1){
+                book[i].style.display="";
+            } else{
+                book[i].style.display = "none";
+            }
+        }
+    }
+}
+
+
+
+
+function homeSearch(){
+    // declare variables
+    var input, filter, title, book, txtValue
+    input = document.getElementById("search");
+    filter = input.value.toUpperCase();
+    title = document.getElementsByClassName("title");
+    book = document.getElementsByClassName("book");
+
+    // loop through book div, hide those who don't match
+    for (i = 0; i < book.length; i++){
+
+        if (book){
+            txtValue = book[i].textContent || book[i].innerText;
+            if (txtValue.toUpperCase().indexOf(filter) > -1){
+                book[i].style.display = "inline";
+            } else{
+                book[i].style.display = "none";
+            }
+        }
+    }
+}
+
+
+
+
