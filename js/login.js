@@ -68,5 +68,14 @@ function homeSearch(){
 }
 
 
+function Contact() {
+    // What to do
+} 
+function submitLogin() {
+ submit= "click";
+}
+
+
+
 
 
